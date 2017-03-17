@@ -1,0 +1,9 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+@import "bootstrap_grid/variables";
+@import "bootstrap_grid/mixins";
+@import "bootstrap_grid/grid";

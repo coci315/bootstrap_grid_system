@@ -1,0 +1,3 @@
+# bootstrap_grid_system
+提取了Bootstrap里的grid部分，
+在`style.scss`里引入reset和bootstrap_grid两个scss文件即可使用
